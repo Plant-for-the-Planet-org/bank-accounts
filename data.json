@@ -1,0 +1,89 @@
+[
+{
+"title": "Donation Bank Account",
+"country": "Germany :de:",
+"countryCode": "DE",
+"orgName": "Plant-for-the-Planet Stiftung",
+"bank": "Sozialbank, München",
+"accountInfo": "<strong>IBAN</strong> DE13 7002 0500 0000 200 000",
+"accountInfo2": "<strong>BIC</strong> BFSWDE33MUE",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2024/07/Germany-Icon.svg",
+"languageCode": "de"
+},
+{
+"title": "Conta Bancária para Doações",
+"country": "Brazil :flag-br:",
+"countryCode": "BR",
+"orgName": "Associação Plant-for-the-Planet Brazil",
+"bank": "Banco Itaú (341)",
+"accountInfo": "<strong>Agência</strong> 0300",
+"accountInfo2": "<strong>Conta Corrente</strong> 42707-7",
+"accountInfo3": "<strong>CNPJ</strong> 20.346.141/0001-78",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2025/01/Brazil-Icon.png",
+"languageCode": "br"
+},
+{
+"title": "Conto Donazioni",
+"country": "Italy :it:",
+"countryCode": "IT",
+"orgName": "Associazione Plant-for-the-Planet Italia",
+"bank": "Banca Etica",
+"accountInfo": "<strong>IBAN</strong> IT70S0501811800000012284030",
+"accountInfo2": "<strong>SWIFT/BIC</strong> CCRTIT2T84A",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2024/07/Italy-Icon.svg",
+"languageCode": "it"
+},
+{
+"title": "Donationskonto",
+"country": "Switzerland :flag-ch:",
+"countryCode": "CH",
+"orgName": "Plant-for-the-Planet Stiftung Schweiz",
+"bank": "Luzerner Kantonalbank",
+"accountInfo": "<strong>IBAN</strong> CH06 0077 8202 4545 1200 1",
+"accountInfo2": "<strong>BIC/SWIFT</strong> LUKBCH2260A",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2024/07/Switzerland-Icon.svg",
+"languageCode": "ch"
+},
+{
+"title": "Cuenta Bancaria para Donaciones",
+"country": "Spain :es:",
+"countryCode": "ES",
+"orgName": "Fundación Plant-for-the-Planet España",
+"bank": "Banco Bilbao Vizcaya Argentaria (BBVA)",
+"accountInfo": "<strong>IBAN</strong> ES37 0182 9796 3502 0016 2493",
+"accountInfo2": "<strong>BIC/SWIFT</strong> BBVAESBB",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2024/12/SpainFlag.png",
+"languageCode": "es"
+},
+{
+"title": "Cuenta Bancaria de Donación",
+"country": "Mexico :flag-mx:",
+"countryCode": "MX",
+"orgName": "Plant-for-the-Planet Mexico A.C.",
+"bank": "BBVA BANCOMER",
+"accountInfo": "<strong>Account number:</strong> 0193447065",
+"accountInfo2": "<strong>Clave interbancaria:</strong> 0126 9400 1934 4706 59",
+"accountInfo3": "<strong>BIC/SWIFT</strong> BCMRMXMMPYM",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2025/01/Mexico-Icon.png",
+"languageCode": "es"
+},
+{
+"title": "Účet pro Darování",
+"country": "Czech Republic :flag-cz:",
+"countryCode": "CS",
+"orgName": "Plant-for-the-Planet Czech Republic Nadace",
+"bank": "Česká Spořitelna",
+"accountInfo": "<strong>IBAN</strong> CZ9008000000005748490399",
+"accountInfo2": "<strong>Swift code</strong> GIBACZPX",
+"accountInfo3": "<strong>Číslo účtu</strong> 5748490399/0800",
+"note": "",
+"flag": "https://www.plant-for-the-planet.org/wp-content/uploads/2025/02/Czech-Flag.png",
+"languageCode": "cs"
+}
+]
