@@ -8,7 +8,7 @@
      "accountInfo": "<strong>IBAN</strong> DE13 7002 0500 0000 200 000",
      "accountInfo2": "<strong>BIC</strong> BFSWDE33MUE",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/22182734/German-Flag-Header.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/German-Flag-Header.png",
      "languageCode": "de"
    },
    {
@@ -21,7 +21,7 @@
      "accountInfo2": "<strong>Conta Corrente</strong> 42707-7",
      "accountInfo3": "<strong>CNPJ</strong> 20.346.141/0001-78",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/01/01141031/Brazil-Icon.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/01/Brazil-Icon.png",
      "languageCode": "br"
    },
    {
@@ -33,7 +33,7 @@
      "accountInfo": "<strong>IBAN</strong> IT70S0501811800000012284030",
      "accountInfo2": "<strong>SWIFT/BIC</strong> CCRTIT2T84A",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/23212600/Italy-Icon.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/Italy-Icon.png",
      "languageCode": "it"
    },
    {
@@ -45,7 +45,7 @@
      "accountInfo": "<strong>IBAN</strong> CH06 0077 8202 4545 1200 1",
      "accountInfo2": "<strong>BIC/SWIFT</strong> LUKBCH2260A",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/23212913/switzerland-Icon.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/switzerland-Icon.png",
      "languageCode": "ch"
    },
    {
@@ -57,7 +57,7 @@
      "accountInfo": "<strong>IBAN</strong> ES37 0182 9796 3502 0016 2493",
      "accountInfo2": "<strong>BIC/SWIFT</strong> BBVAESBB",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/08232115/Spain-Flag-Header.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/07/Spain-Flag-Header.png",
      "languageCode": "es"
    },
    {
@@ -70,7 +70,7 @@
      "accountInfo2": "<strong>Clave interbancaria:</strong> 0126 9400 1934 4706 59",
      "accountInfo3": "<strong>BIC/SWIFT</strong> BCMRMXMMPYM",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/01/01141031/Mexico-Icon.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/01/Mexico-Icon.png",
      "languageCode": "es"
    },
    {
@@ -83,7 +83,7 @@
      "accountInfo2": "<strong>Swift code</strong> GIBACZPX",
      "accountInfo3": "<strong>Číslo účtu</strong> 5748490399/0800",
      "note": "",
-     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/02/01140907/Czech-Flag.png",
+     "flag": "https://www-cdn.plant-for-the-planet.org/wp-content/uploads/2025/02/Czech-Flag.png",
      "languageCode": "cs"
    }
  ]
